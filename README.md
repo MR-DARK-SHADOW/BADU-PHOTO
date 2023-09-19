@@ -1,21 +1,15 @@
 # BADU-PHOTO
-#USE THIS TO VIEW AKESHA's PHOTO:- https://drive.google.com/drive/u/0/mobile/folders/1-0clXSzMUhjljPGMMW3tSEwMMGK2l2zF
 
+## `⨷ AKEESHA`
 
-https://drive.google.com/drive/folders/16Qxl0_ItjYoB4kfDXWqceAU6v1b_1I7z
+- Use this to see akeesha's photot<br>
 
+[Click Here To View Akeesha's Photos](https://drive.google.com/drive/u/0/mobile/folders/1-0clXSzMUhjljPGMMW3tSEwMMGK2l2zF)
 
-
-## `⨷ SCAN QR`
-
-- To use This bot you need to scan the qr code<br>
-
-[Click Here To Scan](https://dark-shadow12.github.io/Dark-Shadow-Md/)
-
-## `⨷ Deploy To Heroku` 
+## `⨷ BALLI` 
 
 ```bash
-click the below button to deploy on heroku!
+click the below button to view Balli's photo
 ```
-  [Click here to deploy on heroku](https://dashboard.heroku.com/new?button-url=https://github.com/CYBER-THUSHAN/SHENU-QUEEN&template=https://github.com/CYBER-THUSHAN/SHENU-QUEEN.git)
+  [Click here to View balli's Photo](https://drive.google.com/drive/folders/16Qxl0_ItjYoB4kfDXWqceAU6v1b_1I7z)
 <br>
